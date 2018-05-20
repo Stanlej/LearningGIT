@@ -1,5 +1,9 @@
 # depslib dependency file v1.0
+<<<<<<< HEAD
 1526813482 source:c:\cpp-git\learningc\main.c
+=======
+1526815931 source:c:\cpp-git\learningc\main.c
+>>>>>>> Branch12
 	<stdio.h>
 	<stdlib.h>
 
